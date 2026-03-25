@@ -1,0 +1,10 @@
+{
+  "name": "CoordinateForEasterEggsFix",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/P-Asta/lc-CoordinateForEasterEggsFix",
+  "description": "Fixed the issue where it did not work in lower versions.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "kakeEdition-CoordinateForEasterEggs-0.1.1"
+  ]
+}
